@@ -28,19 +28,19 @@
 }
 
 .col-2 {
-    width: 64%;
+    width: 66%;
 }
 
 .col-3 {
-    width: 96%%;
 }
 
 [class*="col-"] {
     float: left;
     margin-left: 2%;
+    margin-bottom: 2%;
+    display: block;
 }
 
 .first {
     margin-left: 0;
 }
-
